@@ -1,0 +1,27 @@
+.container{
+    font-size: 40px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+    min-height: 300px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 10px;
+}
+.d1{
+    background-color: blue;
+}
+.d2{
+    justify-self: center;
+    background-color: red;
+}
+.d3{
+    align-self: center;
+    background-color: yellow;
+}
+.d4{
+    background-color:brown;
+}
+.d5{
+    background-color:chocolate;
+}
