@@ -1,0 +1,23 @@
+.container{
+    font-size: 40px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 50px 50px;
+}
+.d1{
+    background-color: blue;
+}
+.d2{
+    background-color: red;
+}
+.d3{
+    background-color: yellow
+}
+.d4{
+    background-color:brown;
+}
+.d5{
+    background-color:chocolate;
+}
